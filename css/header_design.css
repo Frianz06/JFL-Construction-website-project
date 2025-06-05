@@ -1,0 +1,17 @@
+.header_design li a:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    width: 100%;
+    background: linear-gradient(to right, black, #ffb900);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 500ms;
+}
+
+.header_design li a:hover:before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
