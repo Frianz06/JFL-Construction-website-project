@@ -12,6 +12,6 @@ Bootstrap – for responsive layout and modern UI components
 
 CSS & JavaScript – for styling and interaction
 
-SweetAlert – for user-friendly popups and alerts (used in index.php)
+SweetAlert – for user-friendly popups and alerts
 
 PHPMailer – for handling contact forms and email features
